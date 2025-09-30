@@ -1,0 +1,9 @@
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Homework_1_Computer_Graphic.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Homework_1_Computer_Graphic_autogen_timestamp_deps.dir
+C:/Users/FLEX 5/Documents/Semester 5/Komgrap/Homework_1_Computer_Graphic/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Homework_1_Computer_Graphic_autogen.dir
